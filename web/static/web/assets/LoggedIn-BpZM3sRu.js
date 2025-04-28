@@ -1,0 +1,2 @@
+import{dS as o,r as s,j as r,i}from"./vendor-Cl3gq9EZ.js";import{K as n}from"./index-DOwVknmS.js";import{Wrapper as c}from"./Layout-BopCJ3xH.js";import{b as u,u as p}from"./ThemeContext-X3Y_iLhq.js";function x(){const e=u(),t=p(),a=o(n,300);return s.useEffect(()=>{a(e,t==null?void 0:t.state)},[e]),r.jsx(c,{titleText:i._({id:"ps9k8Y"}),loader:!0})}export{x as default};
+//# sourceMappingURL=LoggedIn-BpZM3sRu.js.map
