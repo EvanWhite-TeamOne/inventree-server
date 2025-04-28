@@ -1,0 +1,20 @@
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+
+# Ignore media and static files
+media/
+data/
+static/
+
+# Ignore logs
+*.log
+log/
+
+# Ignore secret files
+secret_key.txt
+*.pem
+
+# Ignore node_modules if you ever build frontend
+frontend/node_modules/
+
